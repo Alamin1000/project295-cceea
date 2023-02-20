@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="103.558" viewBox="0 0 90 103.558">
+  <g id="play-btn" transform="translate(-1224.98 -2928.675)">
+    <text id="VER_VIDEO" data-name="VER VIDEO" transform="translate(1224.98 3028.233)" fill="#01527f" font-size="16.415" font-family="Helvetica"><tspan x="0" y="0">VER VIDEO</tspan></text>
+    <g id="Group_59" data-name="Group 59">
+      <g id="Group_57" data-name="Group 57">
+        <g id="Group_56" data-name="Group 56">
+          <path id="Path_79" data-name="Path 79" d="M1262.531,2971.639l20.147-11.628c2.647-1.528,2.647-4.028,0-5.557l-20.144-11.635c-2.647-1.528-4.813-.278-4.813,2.779v3.565l0,16.131v3.566C1257.717,2971.916,1259.883,2973.167,1262.531,2971.639Z" fill="#01527f"/>
+        </g>
+      </g>
+      <g id="Group_58" data-name="Group 58">
+        <path id="Path_80" data-name="Path 80" d="M1269.189,2985.783a28.554,28.554,0,1,1,28.553-28.554A28.586,28.586,0,0,1,1269.189,2985.783Zm0-54.1a25.551,25.551,0,1,0,25.55,25.551A25.58,25.58,0,0,0,1269.189,2931.678Z" fill="#01527f"/>
+      </g>
+    </g>
+  </g>
+</svg>

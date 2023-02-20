@@ -1,0 +1,206 @@
+
+
+@media (max-width: 1399px) {
+ 
+}
+
+
+@media (max-width: 1199px) {
+  .header-logo img {
+    width: 120px;
+  }
+  .header-nav ul li a {
+	margin: 0 15px;
+	font-size: 15px;
+    }
+    .header {
+        padding: 20px 0;
+        background: #008930;
+    }
+
+    .hero-logo {
+        max-width: 450px;
+        margin-bottom: 40px;
+    }
+    .hero-area p {
+        font-size: 21px;
+    }
+    .laptop {
+        max-width: 620px;
+    }
+    .hero-slider-wrapper {
+        max-width: 443px;
+        top: 35px;
+        height: 200px;
+    }
+    .hero-area {
+        padding-top: 60px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .h2-b {
+        font-size: 21px;
+    }
+
+    .service-logos {
+        flex-wrap: wrap;
+    }
+    .service-brand-logo {
+        padding: 0px 15px;
+        width: 20%;
+        margin-bottom: 20px;
+    }
+
+    .club-logo {
+        max-width: 300px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+
+    .faq-wrapper {
+        margin: 0 auto;
+    }
+    .cal__image-side .img {
+        width: 100%;
+        margin-left: 0%;
+        padding: 0 10%;
+    }
+    .solar-cards-wrap {
+        gap: 50px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .header-logo img {
+        width: 100px;
+    }
+    .header {
+        padding: 12px 0;
+    }
+
+    .hero-logo {
+        max-width: 260px;
+        margin-bottom: 25px;
+    }
+    .hero-area p {
+        font-size: 14px;
+    }
+    .laptop {
+        max-width: 350px;
+    }
+    .hero-slider-wrapper {
+        max-width: 250px;
+        top: 20px;
+        height: 160px;
+    }
+
+    .h2-b {
+        font-size: 20px;
+    }
+    .h2 {
+        font-size: 18px;
+        margin: 0 0 22px;
+    }
+    .cont-blk .line {
+        margin: 0 0 21px;
+        height: 2px;
+        width: 60px;
+    }
+    .training__content .cont-blk .training-ul {
+        margin: 15px 0 10px 5px;
+    }
+    .service-brand-logo {
+        width: 33%;
+        margin-bottom: 20px;
+    }
+    .common-content h3 {
+        font-size: 22px;
+        margin-bottom: 22px;
+    }
+    .service-area {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    .club-logo {
+        max-width: 200px;
+        margin-bottom: 15px;
+    }
+    .has-after::after {
+        bottom: -14px;
+        width: 60px;
+        height: 3px;
+    }
+
+    .solar-cards-wrap {
+        flex-wrap: wrap;
+    }
+    .brands__wrapper {
+        grid-gap: 30px;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .work-area__title {
+        margin: 0 0 50px;
+    }
+    .style-title {
+        padding: 16px 19px;
+        margin: 0 0 40px;
+        border-radius: 50px 5px 50px 5px;
+    }
+
+
+    .footer__top {
+        flex-direction: column;
+        gap: 40px;
+    }
+    .fs-menu li a {
+        height: 35px;
+        width: 35px;
+        font-size: 21px;
+    }
+    .fs-menu {
+        gap: 11px;
+        display: flex;
+    }
+
+
+    .solar-area__title h2 {
+        font-size: 20px;
+    }
+    .solar-area {
+        padding: 60px 0 80px;
+    }
+    .solar-area__title {
+        margin: 0 0 35px;
+    }
+
+    .hero-bg img {
+        min-height: 310px;
+    }
+}
+
+
+@media (max-width: 575px) {
+ 
+}
+
+
+@media (max-width: 370px) {
+    .laptop {
+        max-width: 290px;
+    }
+    .hero-slider-wrapper {
+        max-width: 208px;
+        top: 16px;
+        height: 134px;
+    }
+    .hero-area p {
+        font-size: 13px;
+    }
+    .accordion-body {
+        padding: 22px 10px;
+    }
+}
